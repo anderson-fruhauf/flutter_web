@@ -2,7 +2,13 @@
 
 Awesome responsive web site with flutter web
 
-![video](./video.mp4)
+## Web
+
+![imagem web](/img1.png)
+
+## Mobile
+
+![imagem mobile](/img2.png)
 
 ## Getting Started
 
