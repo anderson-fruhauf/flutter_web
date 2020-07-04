@@ -1,6 +1,8 @@
 # flutterWeb
 
-A new Flutter project.
+Awesome responsive web site with flutter web
+
+![video](./video.mp4)
 
 ## Getting Started
 
