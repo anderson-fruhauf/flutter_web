@@ -2,7 +2,7 @@
 
 Awesome responsive web site with flutter web
 
-![video](/video.mp4)
+![image](/images/home_bg.svg)
 
 ## Getting Started
 
