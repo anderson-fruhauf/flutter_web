@@ -2,7 +2,7 @@
 
 Awesome responsive web site with flutter web
 
-![video](https://youtu.be/./video.mp4)
+![video](https://youtu.be/https://github.com/anderson-fruhauf/flutter_web/blob/master/video.mp4)
 
 ## Getting Started
 
