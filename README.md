@@ -2,7 +2,7 @@
 
 Awesome responsive web site with flutter web
 
-![video](https://drive.google.com/file/d/1sP2FH5hISTz0DpuKez15HlkmlUsMQuMB/view)
+![video](/video.mp4)
 
 ## Getting Started
 
