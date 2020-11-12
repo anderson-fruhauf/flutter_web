@@ -10,7 +10,7 @@ Awesome responsive web site with flutter web
 
 ![imagem mobile](/img2.png)
 
-## Getting Started
+## Getting Started 
 
 This project is a starting point for a Flutter application.
 
